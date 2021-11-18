@@ -1,2 +1,2 @@
 # TheElevatorProblem
-Objects Oriented Programming course's assignment; optimization of the elevator problem.
+Objects Oriented Programming course's assignment number 0; optimization of the online elevator problem.
